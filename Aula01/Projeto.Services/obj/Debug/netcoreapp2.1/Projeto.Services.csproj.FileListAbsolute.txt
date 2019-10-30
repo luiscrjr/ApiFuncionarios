@@ -1,0 +1,17 @@
+C:\Users\Coti-Maq10\Desktop\lRibeiro\Aula01\Projeto.Services\bin\Debug\netcoreapp2.1\Projeto.Services.deps.json
+C:\Users\Coti-Maq10\Desktop\lRibeiro\Aula01\Projeto.Services\bin\Debug\netcoreapp2.1\Projeto.Services.runtimeconfig.json
+C:\Users\Coti-Maq10\Desktop\lRibeiro\Aula01\Projeto.Services\bin\Debug\netcoreapp2.1\Projeto.Services.runtimeconfig.dev.json
+C:\Users\Coti-Maq10\Desktop\lRibeiro\Aula01\Projeto.Services\bin\Debug\netcoreapp2.1\Projeto.Services.dll
+C:\Users\Coti-Maq10\Desktop\lRibeiro\Aula01\Projeto.Services\bin\Debug\netcoreapp2.1\Projeto.Services.pdb
+C:\Users\Coti-Maq10\Desktop\lRibeiro\Aula01\Projeto.Services\bin\Debug\netcoreapp2.1\Projeto.Data.dll
+C:\Users\Coti-Maq10\Desktop\lRibeiro\Aula01\Projeto.Services\bin\Debug\netcoreapp2.1\Projeto.Data.pdb
+C:\Users\Coti-Maq10\Desktop\lRibeiro\Aula01\Projeto.Services\obj\Debug\netcoreapp2.1\Projeto.Services.csprojAssemblyReference.cache
+C:\Users\Coti-Maq10\Desktop\lRibeiro\Aula01\Projeto.Services\obj\Debug\netcoreapp2.1\Projeto.Services.csproj.CoreCompileInputs.cache
+C:\Users\Coti-Maq10\Desktop\lRibeiro\Aula01\Projeto.Services\obj\Debug\netcoreapp2.1\Projeto.Services.RazorAssemblyInfo.cache
+C:\Users\Coti-Maq10\Desktop\lRibeiro\Aula01\Projeto.Services\obj\Debug\netcoreapp2.1\Projeto.Services.RazorAssemblyInfo.cs
+C:\Users\Coti-Maq10\Desktop\lRibeiro\Aula01\Projeto.Services\obj\Debug\netcoreapp2.1\Projeto.Services.AssemblyInfoInputs.cache
+C:\Users\Coti-Maq10\Desktop\lRibeiro\Aula01\Projeto.Services\obj\Debug\netcoreapp2.1\Projeto.Services.AssemblyInfo.cs
+C:\Users\Coti-Maq10\Desktop\lRibeiro\Aula01\Projeto.Services\obj\Debug\netcoreapp2.1\Projeto.Services.RazorTargetAssemblyInfo.cache
+C:\Users\Coti-Maq10\Desktop\lRibeiro\Aula01\Projeto.Services\obj\Debug\netcoreapp2.1\Projeto.Services.csproj.CopyComplete
+C:\Users\Coti-Maq10\Desktop\lRibeiro\Aula01\Projeto.Services\obj\Debug\netcoreapp2.1\Projeto.Services.dll
+C:\Users\Coti-Maq10\Desktop\lRibeiro\Aula01\Projeto.Services\obj\Debug\netcoreapp2.1\Projeto.Services.pdb

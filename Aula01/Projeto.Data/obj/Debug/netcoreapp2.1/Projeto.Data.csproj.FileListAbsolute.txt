@@ -1,0 +1,9 @@
+C:\Users\Coti-Maq10\Desktop\lRibeiro\Aula01\Projeto.Data\bin\Debug\netcoreapp2.1\Projeto.Data.deps.json
+C:\Users\Coti-Maq10\Desktop\lRibeiro\Aula01\Projeto.Data\bin\Debug\netcoreapp2.1\Projeto.Data.dll
+C:\Users\Coti-Maq10\Desktop\lRibeiro\Aula01\Projeto.Data\bin\Debug\netcoreapp2.1\Projeto.Data.pdb
+C:\Users\Coti-Maq10\Desktop\lRibeiro\Aula01\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.csprojAssemblyReference.cache
+C:\Users\Coti-Maq10\Desktop\lRibeiro\Aula01\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.csproj.CoreCompileInputs.cache
+C:\Users\Coti-Maq10\Desktop\lRibeiro\Aula01\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.AssemblyInfoInputs.cache
+C:\Users\Coti-Maq10\Desktop\lRibeiro\Aula01\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.AssemblyInfo.cs
+C:\Users\Coti-Maq10\Desktop\lRibeiro\Aula01\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.dll
+C:\Users\Coti-Maq10\Desktop\lRibeiro\Aula01\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.pdb
